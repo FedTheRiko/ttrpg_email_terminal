@@ -1,19 +1,11 @@
 {
-    "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "serverAddress": "111.222.3.4",
+    "serverName": "FreeNode",
+    "iconName": "world.svg",
+    "terminalID": "freenode",
     "defaultUser": {
         "userId": "user",
         "password": "",
         "userName": "anonymous"
-    },
-    "initialHistory": {
-        "user": [
-            "login admin@admin"
-        ],
-        "admin": [
-            "ping fbi.gov"
-        ]
     }
 }
