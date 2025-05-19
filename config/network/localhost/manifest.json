@@ -1,12 +1,6 @@
 {
-    "year": "2002"
-    "serverAddress": "111.222.3.4",
-    "serverName": "FreeNode Hosting - Gentlemen do not read each other's mail",
-    "iconName": "freeworldlogo.png",
-    "terminalID": "FreeNode",
-    "defaultUser": {
-        "userId": "user",
-        "password": "",
-        "userName": "anonymous"
-    }
+    "serverAddress": "80.84.250.195",
+    "serverName": "Secure Server v24.6",
+    "iconName": "deltagreenicon.png",
+    "terminalID": "deltagreen"
 }
