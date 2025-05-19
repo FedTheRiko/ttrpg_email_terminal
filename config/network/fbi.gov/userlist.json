@@ -3,5 +3,18 @@
         "userId": "8A73B5",
         "password": "trustno1",
         "userName": "Mulder, Fox"
-    }
+    },
+
+    {
+        "userId": "HERALD",
+        "password": "conquerorworm",
+        "userName": "HERALD"
+    },
+
+    {
+        "userId": "a",
+        "password": "a",
+        "userName": "Mulder, Fox"
+    },
 ]
+
